@@ -1,16 +1,29 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Nicolas
 
-<!--
-**Nicolas200521/Nicolas200521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Desarrollador Web junior
 
-Here are some ideas to get you started:
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador web que está constantemente aprendiendo y creando nuevas cosas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mí
+
+- 💻 Desarrollador Full Stack
+- 🌱 Siempre aprendiendo nuevas tecnologías
+- 🎯 Enfocado en crear soluciones web innovadoras
+- 🤝 Abierto a colaborar en proyectos interesantes
+
+### 🛠️ Tecnologías y Herramientas
+
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Node.js, Express
+- Base de datos: MongoDB, MySQL
+- Herramientas: Git, GitHub, VS Code, cursor
+
+### 📫 Conecta conmigo
+
+- Twitter: [Tu perfil de Twitter]
+- Email: nicolase.guevarap@ecci.edu.co
+
+
+
+---
+⭐️ From [Nicolas200521](https://github.com/Nicolas200521)
