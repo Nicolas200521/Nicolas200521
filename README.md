@@ -20,7 +20,7 @@
 
 ### 📫 Conecta conmigo
 
-- Twitter: [Tu perfil de Twitter]
+- Instagram: nicolas0_21
 - Email: nicolase.guevarap@ecci.edu.co
 
 
