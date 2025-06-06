@@ -2,7 +2,7 @@
 
 ## Desarrollador Web junior
 
-¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador web que esta en constante aprendizaj.
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador web que esta en constante aprendizaje.
 
 ### 🚀 Sobre mí
 
