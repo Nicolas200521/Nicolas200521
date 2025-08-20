@@ -14,7 +14,7 @@
 ### 🛠️ Tecnologías y Herramientas
 
 - Frontend: HTML, CSS, JavaScript, React
-- Backend: Node.js, Express
+- Backend: Node.js, Express y Ruby on rails.
 - Base de datos: MongoDB, MySQL
 - Herramientas: Git, GitHub, VS Code, cursor
 
